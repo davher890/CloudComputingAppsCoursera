@@ -1,3 +1,0 @@
-export USER_ID=1353104
-export DATASET_N=20
-export DATASET_PATCH=5
